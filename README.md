@@ -7,7 +7,7 @@ A database-driven web application developed using **PHP and MySQL** as part of t
 | Detail | Description |
 |---|---|
 | **Project Title** | Hotel Room Booking System |
-| **Student Name** | Arya PL |
+| **Name** | Arya PL |
 | **Roll Number** | 09 |
 | **Database Name** | `hotel_db` |
 | **Backend** | PHP |
