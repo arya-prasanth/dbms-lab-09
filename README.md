@@ -1,6 +1,6 @@
 # 🏨 Hotel Room Booking System
 
-A database-driven web application developed using **PHP and MySQL** as part of the DBMS Lab project.
+A database-driven web application developed using **PHP and MySQL** as part of the DBMS Project.
 
 ## 📌 Project Information
 
