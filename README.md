@@ -78,7 +78,7 @@ dbms-lab-09/
 ├── README.md
 │
 └── screenshots/
-    ├── booking_form
+    ├── booking_form.png
     ├── check_avail.png
     ├── booked_success.png
     └── booking_report.png
